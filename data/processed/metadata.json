@@ -1,0 +1,304 @@
+{
+  "metadata": {
+    "total_chunks": 1072,
+    "total_pdfs": 59,
+    "created_date": "c:\\Users\\uddin\\RAG-System"
+  },
+  "pdfs": [
+    {
+      "filename": "A comprehensive analysis of deep.pdf",
+      "chunks_count": 20,
+      "chunk_file": "pdfs/A comprehensive analysis of deep_chunks.json"
+    },
+    {
+      "filename": "A hybrid quantum classical.pdf",
+      "chunks_count": 33,
+      "chunk_file": "pdfs/A hybrid quantum classical_chunks.json"
+    },
+    {
+      "filename": "A promising AI based super .pdf",
+      "chunks_count": 20,
+      "chunk_file": "pdfs/A promising AI based super _chunks.json"
+    },
+    {
+      "filename": "A reinforcement learning model .pdf",
+      "chunks_count": 12,
+      "chunk_file": "pdfs/A reinforcement learning model _chunks.json"
+    },
+    {
+      "filename": "A reinforcement learning model for AI-based .pdf",
+      "chunks_count": 12,
+      "chunk_file": "pdfs/A reinforcement learning model for AI-based _chunks.json"
+    },
+    {
+      "filename": "adaptive early stopping.pdf",
+      "chunks_count": 20,
+      "chunk_file": "pdfs/adaptive early stopping_chunks.json"
+    },
+    {
+      "filename": "Advanced skin cancer prediction .pdf",
+      "chunks_count": 13,
+      "chunk_file": "pdfs/Advanced skin cancer prediction _chunks.json"
+    },
+    {
+      "filename": "Advancing skin cancer diagnosis with deep.pdf",
+      "chunks_count": 43,
+      "chunk_file": "pdfs/Advancing skin cancer diagnosis with deep_chunks.json"
+    },
+    {
+      "filename": "AI enabled medical image segmentation.pdf",
+      "chunks_count": 15,
+      "chunk_file": "pdfs/AI enabled medical image segmentation_chunks.json"
+    },
+    {
+      "filename": "AI medical ultra low-data regimes.pdf",
+      "chunks_count": 22,
+      "chunk_file": "pdfs/AI medical ultra low-data regimes_chunks.json"
+    },
+    {
+      "filename": "AI outperformed every .pdf",
+      "chunks_count": 13,
+      "chunk_file": "pdfs/AI outperformed every _chunks.json"
+    },
+    {
+      "filename": "An advanced skin lesion .pdf",
+      "chunks_count": 32,
+      "chunk_file": "pdfs/An advanced skin lesion _chunks.json"
+    },
+    {
+      "filename": "Artificial Intelligence in Skin Cancer Diagnosis-A Reality Check.pdf",
+      "chunks_count": 8,
+      "chunk_file": "pdfs/Artificial Intelligence in Skin Cancer Diagnosis-A Reality Check_chunks.json"
+    },
+    {
+      "filename": "artificial intelligence to.pdf",
+      "chunks_count": 4,
+      "chunk_file": "pdfs/artificial intelligence to_chunks.json"
+    },
+    {
+      "filename": "Asystematic review and meta-analysis of.pdf",
+      "chunks_count": 23,
+      "chunk_file": "pdfs/Asystematic review and meta-analysis of_chunks.json"
+    },
+    {
+      "filename": "Can we open the black box of AI_ _ Nature News & Comment.pdf",
+      "chunks_count": 5,
+      "chunk_file": "pdfs/Can we open the black box of AI_ _ Nature News & Comment_chunks.json"
+    },
+    {
+      "filename": "cancers-15-01183.pdf",
+      "chunks_count": 36,
+      "chunk_file": "pdfs/cancers-15-01183_chunks.json"
+    },
+    {
+      "filename": "classification of skin cancer lesions.pdf",
+      "chunks_count": 20,
+      "chunk_file": "pdfs/classification of skin cancer lesions_chunks.json"
+    },
+    {
+      "filename": "Decoding skin cancer classification .pdf",
+      "chunks_count": 36,
+      "chunk_file": "pdfs/Decoding skin cancer classification _chunks.json"
+    },
+    {
+      "filename": "Diagnostic performance of augmented intelligence with 2D and 3D total body photography.pdf",
+      "chunks_count": 13,
+      "chunk_file": "pdfs/Diagnostic performance of augmented intelligence with 2D and 3D total body photography_chunks.json"
+    },
+    {
+      "filename": "Disease risk scores for skin cancers.pdf",
+      "chunks_count": 13,
+      "chunk_file": "pdfs/Disease risk scores for skin cancers_chunks.json"
+    },
+    {
+      "filename": "Disentangling Hype from Reality for Artificial Intelligence–Based Skin Cancer Diagnosis-Comment on a Narrative Review.pdf",
+      "chunks_count": 2,
+      "chunk_file": "pdfs/Disentangling Hype from Reality for Artificial Intelligence–Based Skin Cancer Diagnosis-Comment on a Narrative Review_chunks.json"
+    },
+    {
+      "filename": "DSSCC net enhanced skin cancer.pdf",
+      "chunks_count": 20,
+      "chunk_file": "pdfs/DSSCC net enhanced skin cancer_chunks.json"
+    },
+    {
+      "filename": "Early automated detection system .pdf",
+      "chunks_count": 10,
+      "chunk_file": "pdfs/Early automated detection system _chunks.json"
+    },
+    {
+      "filename": "Enhanced MobileNet for skin .pdf",
+      "chunks_count": 13,
+      "chunk_file": "pdfs/Enhanced MobileNet for skin _chunks.json"
+    },
+    {
+      "filename": "ensemble framework.pdf",
+      "chunks_count": 32,
+      "chunk_file": "pdfs/ensemble framework_chunks.json"
+    },
+    {
+      "filename": "Evaluating skin tone scales.pdf",
+      "chunks_count": 10,
+      "chunk_file": "pdfs/Evaluating skin tone scales_chunks.json"
+    },
+    {
+      "filename": "Explainable deep learning .pdf",
+      "chunks_count": 20,
+      "chunk_file": "pdfs/Explainable deep learning _chunks.json"
+    },
+    {
+      "filename": "Gene expression profiling .pdf",
+      "chunks_count": 21,
+      "chunk_file": "pdfs/Gene expression profiling _chunks.json"
+    },
+    {
+      "filename": "hand foot skin reaction .pdf",
+      "chunks_count": 7,
+      "chunk_file": "pdfs/hand foot skin reaction _chunks.json"
+    },
+    {
+      "filename": "Human-AI interaction in skin cancer.pdf",
+      "chunks_count": 10,
+      "chunk_file": "pdfs/Human-AI interaction in skin cancer_chunks.json"
+    },
+    {
+      "filename": "image reconstruction.pdf",
+      "chunks_count": 20,
+      "chunk_file": "pdfs/image reconstruction_chunks.json"
+    },
+    {
+      "filename": "inception-ResNet-V2 model.pdf",
+      "chunks_count": 17,
+      "chunk_file": "pdfs/inception-ResNet-V2 model_chunks.json"
+    },
+    {
+      "filename": "interaction in skin cancer.pdf",
+      "chunks_count": 10,
+      "chunk_file": "pdfs/interaction in skin cancer_chunks.json"
+    },
+    {
+      "filename": "melanoma analysis and detection.pdf",
+      "chunks_count": 19,
+      "chunk_file": "pdfs/melanoma analysis and detection_chunks.json"
+    },
+    {
+      "filename": "melanoma and nonmelanoma.pdf",
+      "chunks_count": 23,
+      "chunk_file": "pdfs/melanoma and nonmelanoma_chunks.json"
+    },
+    {
+      "filename": "Meta-analyses of the evolution of MXene.pdf",
+      "chunks_count": 23,
+      "chunk_file": "pdfs/Meta-analyses of the evolution of MXene_chunks.json"
+    },
+    {
+      "filename": "Mobile applications for skin cancer.pdf",
+      "chunks_count": 12,
+      "chunk_file": "pdfs/Mobile applications for skin cancer_chunks.json"
+    },
+    {
+      "filename": "model for clinical dermatology.pdf",
+      "chunks_count": 31,
+      "chunk_file": "pdfs/model for clinical dermatology_chunks.json"
+    },
+    {
+      "filename": "Multi-stage knowledge distillation.pdf",
+      "chunks_count": 22,
+      "chunk_file": "pdfs/Multi-stage knowledge distillation_chunks.json"
+    },
+    {
+      "filename": "multiclass skin cancer.pdf",
+      "chunks_count": 19,
+      "chunk_file": "pdfs/multiclass skin cancer_chunks.json"
+    },
+    {
+      "filename": "Multimodal AI and tumour.pdf",
+      "chunks_count": 10,
+      "chunk_file": "pdfs/Multimodal AI and tumour_chunks.json"
+    },
+    {
+      "filename": "Multimodal deep learning .pdf",
+      "chunks_count": 32,
+      "chunk_file": "pdfs/Multimodal deep learning _chunks.json"
+    },
+    {
+      "filename": "Omics-based decoding of molecular and metabolic .pdf",
+      "chunks_count": 21,
+      "chunk_file": "pdfs/Omics-based decoding of molecular and metabolic _chunks.json"
+    },
+    {
+      "filename": "patient metadata and skin lesion.pdf",
+      "chunks_count": 15,
+      "chunk_file": "pdfs/patient metadata and skin lesion_chunks.json"
+    },
+    {
+      "filename": "Privacy preserving skin cancer.pdf",
+      "chunks_count": 27,
+      "chunk_file": "pdfs/Privacy preserving skin cancer_chunks.json"
+    },
+    {
+      "filename": "Reproducible Naevus Counts Using 3D Total Body Photography and Convolutional Neural Networks.pdf",
+      "chunks_count": 8,
+      "chunk_file": "pdfs/Reproducible Naevus Counts Using 3D Total Body Photography and Convolutional Neural Networks_chunks.json"
+    },
+    {
+      "filename": "risk score for skin cancer detection.pdf",
+      "chunks_count": 12,
+      "chunk_file": "pdfs/risk score for skin cancer detection_chunks.json"
+    },
+    {
+      "filename": "skin cancer classification from.pdf",
+      "chunks_count": 18,
+      "chunk_file": "pdfs/skin cancer classification from_chunks.json"
+    },
+    {
+      "filename": "Skin Cancer Detection A Review Using Deep Learning Technique.pdf",
+      "chunks_count": 22,
+      "chunk_file": "pdfs/Skin Cancer Detection A Review Using Deep Learning Technique_chunks.json"
+    },
+    {
+      "filename": "skin cancer detection and classification.pdf",
+      "chunks_count": 23,
+      "chunk_file": "pdfs/skin cancer detection and classification_chunks.json"
+    },
+    {
+      "filename": "skin cancer through fusion of vision.pdf",
+      "chunks_count": 20,
+      "chunk_file": "pdfs/skin cancer through fusion of vision_chunks.json"
+    },
+    {
+      "filename": "Skin cancer usiing .pdf",
+      "chunks_count": 31,
+      "chunk_file": "pdfs/Skin cancer usiing _chunks.json"
+    },
+    {
+      "filename": "skin cancer using MedFusionNet.pdf",
+      "chunks_count": 20,
+      "chunk_file": "pdfs/skin cancer using MedFusionNet_chunks.json"
+    },
+    {
+      "filename": "skin cancervision-based feature extraction.pdf",
+      "chunks_count": 15,
+      "chunk_file": "pdfs/skin cancervision-based feature extraction_chunks.json"
+    },
+    {
+      "filename": "skin disease AI algorithm.pdf",
+      "chunks_count": 11,
+      "chunk_file": "pdfs/skin disease AI algorithm_chunks.json"
+    },
+    {
+      "filename": "skin lesion risk prediction clinical data.pdf",
+      "chunks_count": 11,
+      "chunk_file": "pdfs/skin lesion risk prediction clinical data_chunks.json"
+    },
+    {
+      "filename": "text guided diffusion model.pdf",
+      "chunks_count": 16,
+      "chunk_file": "pdfs/text guided diffusion model_chunks.json"
+    },
+    {
+      "filename": "Vision_Based_Classification_of_Skin_Cancer_using_Deep_Learning_(Kalouche).pdf",
+      "chunks_count": 6,
+      "chunk_file": "pdfs/Vision_Based_Classification_of_Skin_Cancer_using_Deep_Learning_(Kalouche)_chunks.json"
+    }
+  ]
+}

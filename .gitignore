@@ -22,6 +22,7 @@ wheels/
 
 # Virtual environments
 venv/
+.venv/
 env/
 ENV/
 env.bak/
@@ -43,11 +44,8 @@ venv.bak/
 logs/
 *.log
 
-# Data files
-data/input_pdfs/*
-data/processed/*
-!data/input_pdfs/.gitkeep
-!data/processed/.gitkeep
+# Local tooling artifacts
+testsprite_tests/
 
 # IDE settings
 .vscode/settings.json
